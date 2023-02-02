@@ -1,0 +1,69 @@
+.loc_icon{
+    margin-left: 25px;
+    margin-top: 51px;
+}
+.loc_desc{
+    margin-left: 81px;
+    margin-top: -66px;
+}
+.mail_icon{
+    margin-top: 51px;
+    margin-left: 18px;
+}
+.mail_desc{
+    margin-left: 79px;
+    margin-top: -62px; 
+}
+.img_carosual img{
+    height: 500px;
+}
+.call_container{
+    background: yellow;
+    padding-left: 40px;
+}
+.call_container span{
+    font-size: larger;
+}
+#abouts{
+    font-size: 40px;
+}
+#bh{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(24, 24, 133);
+}
+#para_bh{
+    text-align: justify;
+
+}
+.services{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.our{
+    font-size: 40px;
+}
+.span_serve{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+        /* FOOTER */
+.footer-section{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    padding-left: 60px;
+}
+.str span{
+    color: white;
+}
+.str span a{
+    color: white;
+    text-decoration: none;
+    word-spacing: 39px;
+
+}
+.cpy_ri8{
+    padding-left: 630px;
+}
